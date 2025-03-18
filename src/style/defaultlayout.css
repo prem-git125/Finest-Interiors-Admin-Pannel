@@ -1,0 +1,9 @@
+.no-sidebar .row {
+    flex-direction: column; /* Adjust layout when sidebar is hidden */
+  }
+  
+  .full-width {
+    width: 100%; /* Make main content full width when sidebar is hidden */
+    padding-left: 0;
+    padding-right: 0;
+  }
